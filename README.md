@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frameworks, Courses**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KelvinY18/](https://kelviny18.github.io/-KelvinYanLenjau/)
+- 👨‍💻 All of my projects are available at [[https://kelviny18.github.io/KelvinYan/)/](https://kelviny18.github.io/KelvinYan/)
 
 - 📫 How to reach me **kelvinyan1620@gmail.com**
 
